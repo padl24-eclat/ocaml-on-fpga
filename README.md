@@ -22,8 +22,8 @@ The VM includes :
 - value representation (`ocaml-vm/mlvalues.ecl`);
 - dynamic memory in a static array (`ocaml-vm/ram.ecl`);
 - a memory allocator with garbage collector Stop&Copy  (`ocaml-vm/allloc.ecl`);
-- the primitives of the bytecode interpreter (`ocaml-vm/runtime.ecl);
-- external primitives (`ocaml-vm/prims.ecl);
+- the primitives of the bytecode interpreter (`ocaml-vm/runtime.ecl`);
+- external primitives (`ocaml-vm/prims.ecl`);
 - a bytecode interpreter (`ocaml-vm/vm.ecl`);
 - a reactive program executing the VM internally (`ocaml-vm/main.ecl`).
 
