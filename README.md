@@ -13,7 +13,7 @@ This artefact, presented in the paper, includes:
   Eclat instantaneous primitives are defined in `target/runtime.vhdl`
 
 
-The paper compares or VM implementation with an other implementation of the OCaml VM, called OMicroB ([https://github.com/stevenvar/OMicroB](https://github.com/stevenvar/OMicroB)) and a port of OMicroB on FPGA ([https://github.com/jserot/O2B](https://github.com/jserot/O2B))
+The paper compares our VM implementation with an other implementation of the OCaml VM, called OMicroB ([https://github.com/stevenvar/OMicroB](https://github.com/stevenvar/OMicroB)) and a port of OMicroB on FPGA ([https://github.com/jserot/O2B](https://github.com/jserot/O2B))
 
 -------------------
 
